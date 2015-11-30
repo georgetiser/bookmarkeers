@@ -1,0 +1,19 @@
+.DS_STORE
+.idea
+.vagrant
+.other
+# Image files:
+*.bmp
+*.gif
+*.jpg
+*.png
+*.svg
+# Font files:
+*.eot
+*.otf
+*.ttf
+*.woff
+*.woff2
+# Archive files:
+*.7z
+*.zip
